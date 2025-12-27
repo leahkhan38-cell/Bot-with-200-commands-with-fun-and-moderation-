@@ -1,4 +1,4 @@
-# Bot-with-200-commands-with-fun-and-moderation-
+# Bot-with-200-commands-with-fun-and-moderation- (Using env file)
 
 # 🤖 Discord Multi-Purpose Bot (200+ Commands)
 
